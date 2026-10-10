@@ -125,7 +125,7 @@ None. Policy pass only. No repo files were edited. This `AUDIT-APPLICATION.md` i
 
 ## Commits
 
-TBD.
+`5b042ce` (brutal-audit: R-1..R-12 policy application pass, docs repo).
 
 ## Test counts
 
