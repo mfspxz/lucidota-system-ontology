@@ -1,3 +1,5 @@
+[Active R&D Lab] — no CI runs on record; active development, expect rough edges.
+
 # System Ontology — the whole-project scaffold
 
 **Status:** scaffold v0.1 (2026-10-06) | **Author:** Zackary Camoran / Lucidota
